@@ -1,0 +1,9 @@
+Elements covered
+1. span -- inline element that can be targeted by css
+2. div -- containers/groups that can be targeted by css
+3. sup -- for superscripting content
+4. sub -- for subscripting content
+5. video -- to add video and how to control video using html
+6. audio -- to add audio and how to control video using html
+7. hr -- display horizontal line on web page
+8. iframe -- in line frame for basically embedding a doc or another webpage into our page
