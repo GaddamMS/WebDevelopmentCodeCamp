@@ -6,6 +6,6 @@ Elements covered
     d. thead -- table header used to define header columns
     e. tbody -- table body that comprise body of table
     f. tfoot -- table footer used to summarize column data at bottom
-    g. caption -- used for caption or title of a table. It should be the very 1st child ob <table>
+    g. caption -- used for caption or title of a table. It should be the very 1st child of <table>
     h. colspan -- define number of columns that it can occupy
     i. rowspan -- define number of rows that it can occupy
