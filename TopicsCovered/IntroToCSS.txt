@@ -1,0 +1,12 @@
+CSS - Cascading Style Sheets
+Styee Types:
+1. Inline styles
+2. <style> element --should be in the head of the document
+3. CSS -- file name ends with .css
+
+Basic CSS syntax:
+selector {
+    property: value;
+}
+
+In the above syntax, the values together within the curly braces is called a 'Rule Set'.
